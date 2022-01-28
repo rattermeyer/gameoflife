@@ -1,0 +1,10 @@
+= Game of Life: Java Edition
+
+This is a basic setup using Junit 5 as Testing Framework.
+
+Options could be:
+
+1. no additional libraries
+2. Using AssertJ Library
+
+And of course the normal TDD constraint list (see main branch)
