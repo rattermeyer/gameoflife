@@ -1,0 +1,32 @@
+
+
+== Constraints
+
+Pick 1 or 2 extra constraints from the example list when doing a kata.
+
+. No debugging
+. No mouse
+. No loops
+. Communicate clearly, meaningful naming take from the Domain (Kata)
+. One level of abstraction per method
+a. Let the code be read as if it was a small story.
+b. Collapse methods and read only function names top down
+. Do not use else
+. No conditional statements
+. Only void returns - All methods must return nothing
+. No void returns - All methods must return something
+. Only static methods
+. Only static fields
+. No passing of primitives between methods as parameters or return types
+. Only four lines per method - After refactoring
+. Immutables only, please
+. No Properties/Getters/Setters
+. Only one level of indentation per method
+. Strictly follow the rule of three
+   a. Allow duplication to emerge at least 3 times before removing it
+. 2 refactorings after each passing test
+. Do not use any classes with more than two instance variables
+. Zero constructor arguments
+. No more than 2 parameters per method
+. No chained method calls - 1 dot per statement
+. No objects
