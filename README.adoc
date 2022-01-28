@@ -1,0 +1,19 @@
+= Typescript based GameOfLife 
+
+This is the empty project provider to start coding your Game of Life project.
+It uses https://jestjs.io/docs/getting-started[Jest] as the unit testing framework.
+
+Simply call
+
+    yarn install
+    yarn test:watch
+
+And start coding.
+
+Tests are written in `gol.spec.ts` and the program is written in `gol.ts`.
+
+To get a coverage report run
+
+   npx jest --coverage
+
+Happy coding.
