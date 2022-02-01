@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/yarn,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=yarn,visualstudiocode
 
+### IDEA ####
+.idea/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json

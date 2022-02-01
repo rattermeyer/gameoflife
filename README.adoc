@@ -6,7 +6,10 @@ It uses https://jestjs.io/docs/getting-started[Jest] as the unit testing framewo
 Simply call
 
     yarn install
+    yarn compile:watch
     yarn test:watch
+
+You need to execute the watch commands in different terminals.
 
 And start coding.
 
